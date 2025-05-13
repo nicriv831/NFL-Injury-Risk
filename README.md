@@ -1,1 +1,14 @@
-# NFL-Injury-Risk
+# NFL Missed Game Risk
+
+Challenge - Create a model that can usefully predict the liklihood a player misses four or more games in the upcoming NFL Season
+
+Roadblocks -
+
+1. How to best aggregate weekly data for a single season projection
+2. Bday/age data has many NaNs. I am operating on assumption that age and injury risk are correlated. Need to find a good way to handle missing values
+   
+    a. Some of the data are repeat player who have bdays listed in one season but not another, can use these values to fill in missing
+   
+    b. Some of the data is missing because some rows have differing names (i.e Michael in certain years and Mike in others)
+   
+    c. None of the data is missing at random, every player has a birthday
