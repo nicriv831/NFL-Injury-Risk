@@ -4,8 +4,10 @@ Challenge - Create a model that can usefully predict the liklihood a player miss
 
 Roadblocks -
 
-1. How to best aggregate weekly data for a single season projection
-2. Bday/age data has many NaNs. I am operating on assumption that age and injury risk are correlated. Need to find a good way to handle missing values
+1. There is not a single unique ID associated to all datasets, need to find a way to make my own unique ID for merges and data integrity
+2. Names are repetitive (ie one play has JR listed some years and not other) need to standardize bdays
+3. How to best aggregate weekly data for a single season projection
+4. Bday/age data has many NaNs. I am operating on assumption that age and injury risk are correlated. Need to find a good way to handle missing values
    
     a. Some of the data are repeat player who have bdays listed in one season but not another, can use these values to fill in missing
    
