@@ -18,3 +18,5 @@ Roadblocks -
     c. None of the data is missing at random, every player has a birthday
    
     d. There are many plauyers with a cut status in the rosters. Need to look at these players to see if they've had meaningful action in a game. Might be able to drop these players and eliminate missing bdays
+
+6. Functionalize some of the hand tasks I did with adding birthdays or draft years
