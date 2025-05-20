@@ -1,231 +1,160 @@
-,Report,,,,Revised,,,,,,,,
-"""",right Shoulder,""" ",: ,"""",Shoulder,"""",", ","""right Shoulder"" : ""Shoulder"", ",,,,,"""right Shoulder"" : ""Shoulder"", ""Finger"" : ""Hand"", ""right Groin"" : ""Groin"", ""Thumb"" : ""Hand"", ""right Thumb"" : ""Hand"", ""left Shoulder"" : ""Shoulder"", ""right Elbow"" : ""Elbow"", ""Heel"" : ""Foot"", ""Shin"" : ""Lower Leg"", ""Forearm"" : ""Arm"", ""Not injury related - personal matter"" : ""Not Injury Related"", ""Pectoral"" : ""Chest"", ""Fibula"" : ""Lower Leg"", ""right Finger"" : ""Hand"", ""Collarbone"" : ""Shoulder"", ""Oblique"" : ""Abdomen"", ""right Knee"" : ""Knee"", ""right Hip"" : ""Hip"", ""left Knee"" : ""Knee"", ""left Hamstring"" : ""Hamstring"", ""right Calf"" : ""Calf"", ""left Wrist"" : ""Wrist"", ""right Quadricep"" : ""Quadricep"", ""right Hand"" : ""Hand"", ""right Hamstring"" : ""Hamstring"", ""left Groin"" : ""Groin"", ""Right Shoulder"" : ""Shoulder"", ""left Thumb"" : ""Hand"", ""Not injury related - resting player"" : ""Not Injury Related"", ""Glute"" : ""Back"", ""left Ankle"" : ""Ankle"", ""Eye"" : ""Face"", ""right Wrist"" : ""Wrist"", ""Left Knee"" : ""Knee"", ""Pelvis"" : ""Hip"", ""right Ankle"" : ""Ankle"", ""Biceps"" : ""Arm"", ""left Calf"" : ""Calf"", ""Jaw"" : ""Face"", ""Feet"" : ""Foot"", ""Chest/Rib/Finger"" : ""Chest"", ""Kidney"" : ""Abdomen"", ""right Thigh"" : ""Thigh"", ""Left Hand"" : ""Hand"", ""kidney"" : ""Abdomen"", ""Ankles"" : ""Ankle"", ""Right Ankle"" : ""Ankle"", ""Core"" : ""Abdomen"", ""Abdominal"" : ""Abdomen"", ""Nose"" : ""Face"", ""Medical Illness"" : ""Not Injury Related"", ""Non-Football Illness"" : ""Not Injury Related"", ""Coach's Decision"" : ""Not Injury Related"", ""Coach's decision"" : ""Not Injury Related"", ""Left Shoulder"" : ""Shoulder"", ""Not injury related - other"" : ""Not Injury Related"", ""Right Hip"" : ""Hip"", ""left Finger"" : ""Hand"", ""left Hip"" : ""Hip"", ""Right Hamstring"" : ""Hamstring"", ""Low Back"" : ""Back"", ""left Foot"" : ""Foot"", ""left Hand"" : ""Hand"", ""left Forearm"" : ""Arm"", ""rt. thumb"" : ""Hand"", ""right Foot"" : ""Foot"", ""Hips"" : ""Hip"", ""Stinger"" : ""Neck"", ""Knees"" : ""Knee"", ""Hernia"" : ""Abdomen"", ""Other-Stinger"" : ""Neck"", ""Lower Back"" : ""Back"", ""Tibia"" : ""Lower Leg"", ""right Toe"" : ""Toe"", ""Coaching Decision "" : ""Not Injury Related"", ""Toes"" : ""Toe"", ""Ear"" : ""Face"", ""Right Thumb"" : ""Hand"", ""Right Quadricep"" : ""Quadricep"", ""Not injury related - coach's decision"" : ""Not Injury Related"", ""Right Hand"" : ""Hand"", ""R Shoulder"" : ""Shoulder"", ""Other"" : ""Drop"", ""Left Foot"" : ""Foot"", ""COVID Protocol"" : ""Not Injury Related"", ""Reserve/COVID activation"" : ""Not Injury Related"", ""not injury related"" : ""Not Injury Related"", ""Back Spasms"" : ""Back"", ""Face"" : ""Face"", ""Right Knee"" : ""Knee"", ""not injury related - team decision"" : ""Not Injury Related"", ""Right Forearm"" : ""Arm"", ""not injury related - returning from suspension"" : ""Not Injury Related"", ""left Quadricep"" : ""Quadricep"", ""Returning from Suspension"" : ""Not Injury Related"", ""knees"" : ""Knee"", ""Player was ill this morning. Fully expected to play. No game status. "" : ""Not Injury Related"", ""Trent Sherfield Sr. did not travel with the team today for personal reasons. He is traveling separately and is expected to be available for Sunday’s game."" : ""Not Injury Related"", ""Eye Lid"" : ""Face"", ""Cheek"" : ""Face"", ""Right Collarbone"" : ""Shoulder"", ""Hamstrings"" : ""Hamstring"", ""Sternoclavicular"" : ""Chest"", ""right Biceps"" : ""Arm"", ""Left Ankle"" : ""Ankle"", ""Chest/Finger"" : ""Chest"", ""L. Arm"" : ""Arm"", ""Lower leg"" : ""Lower Leg"", ""Qblique"" : ""Abdomen"", ""Arrhythmia"" : ""Drop"", ""right thumb"" : ""Hand"", ""Chin"" : ""Face"", ""Left Hamstring"" : ""Hamstring"", ""Right Finger"" : ""Hand"", ""Triceps"" : ""Arm"", ""Ribs/Ankle/Toe"" : ""Ribs"", ""right quadricep"" : ""Quadricep"", ""Teeth"" : ""Face"", ""Spleen"" : ""Abdomen"", ""Right Upper Arm"" : ""Arm"", ""Shortness of Breath"" : ""Drop"", ""Facial Laceration"" : ""Face"", ""Tooth"" : ""Face"", ""Quad"" : ""Quadricep"", ""Both knees"" : ""Knee"", ""Left shoulder, Left elbow"" : ""Shoulder"", ""Stomach"" : ""Abdomen"", ""lower leg"" : ""Lower Leg"", ""non football injury"" : ""Not Injury Related"", ""Core Muscle Injury"" : ""Abdomen"", ""Arch"" : ""Foot"", ""right hip"" : ""Hip"", ""Right Elbow"" : ""Elbow"", ""Rest"" : ""Not Injury Related"", ""Right Wrist"" : ""Wrist"", ""gameday concussion protocol evaluation"" : ""Concussion"", ""Cramps"" : ""Not Injury Related"", ""core muscle"" : ""Abdomen"", ""right Forearm"" : ""Arm"", ""Left Finger"" : ""Hand"", ""Throat"" : ""Neck"", ""not injury related - travel"" : ""Not Injury Related"", ""Personal"" : ""Not Injury Related"", ""Not injury related -- resting veteran"" : ""Not Injury Related"", ""Load Management"" : ""Not Injury Related"", ""Tricep"" : ""Arm"", ""Left Wrist"" : ""Wrist"", ""Jury Duty"" : ""Not Injury Related"", ""Right Foot"" : ""Foot"", ""Dehydration"" : ""Not Injury Related"", ""Right Arm (Laceration)"" : ""Arm"", ""Placed On Injured Reserve (Thigh)"" : ""Thigh"", ""Concussion Protocol"" : ""Concussion"", ""concussion protocol"" : ""Concussion"", ""Not Injury Related - Travel"" : ""Not Injury Related"", ""Heat cramps"" : ""Not Injury Related"", ""Travel After Trade"" : ""Not Injury Related"", ""Headache"" : ""Not Injury Related"", ""Resting Veteran"" : ""Not Injury Related"", ""calves"" : ""Calf"", ""Appendix"" : ""Abdomen"", ""oblique"" : ""Abdomen"", ""Heat Related"" : ""Not Injury Related"", ""Clavicle"" : ""Shoulder"", ""rest"" : ""Not Injury Related"", ""Rested"" : ""Not Injury Related"", ""Core Muscle"" : ""Abdomen"", ""Right Biceps"" : ""Arm"", ""Rest"" : ""Not Injury Related"", ""Right Wrist"" : ""Wrist"", ""gameday concussion protocol evaluation"" : ""Concussion"", ""Cramps"" : ""Not Injury Related"", ""core muscle"" : ""Abdomen"", ""right Forearm"" : ""Arm"", ""Left Finger"" : ""Hand"", ""Throat"" : ""Neck"", ""not injury related - travel"" : ""Not Injury Related"", ""Personal"" : ""Not Injury Related"", ""Not injury related -- resting veteran"" : ""Not Injury Related"", ""Load Management"" : ""Not Injury Related"", ""Tricep"" : ""Arm"", ""Left Wrist"" : ""Wrist"", ""Jury Duty"" : ""Not Injury Related"", ""Right Foot"" : ""Foot"", ""Dehydration"" : ""Not Injury Related"", ""Right Arm (Laceration)"" : ""Arm"", ""Placed On Injured Reserve (Thigh)"" : ""Thigh"", ""Concussion Protocol"" : ""Concussion"", ""concussion protocol"" : ""Concussion"", ""Not Injury Related - Travel"" : ""Not Injury Related"", ""Heat cramps"" : ""Not Injury Related"", ""Travel After Trade"" : ""Not Injury Related"", ""Headache"" : ""Not Injury Related"", ""Resting Veteran"" : ""Not Injury Related"", ""calves"" : ""Calf"", ""Appendix"" : ""Abdomen"", ""oblique"" : ""Abdomen"", ""Heat Related"" : ""Not Injury Related"", ""Clavicle"" : ""Shoulder"", ""rest"" : ""Not Injury Related"", ""Rested"" : ""Not Injury Related"", ""Core Muscle"" : ""Abdomen"", ""Right Biceps"" : ""Arm"", ""Finger"" : ""Hand"", ""Rib"" : ""Ribs"", ""Forearm"" : ""Arm"", ""Not injury related - personal matter"" : ""Not Injury Related"", ""Not injury related - resting player"" : ""Not Injury Related"", ""Kidney"" : ""Abdomen"", ""Thumb"" : ""Hand"", ""right finger, rib"" : ""Hand"", ""Shin"" : ""Lower Leg"", ""/ Forearm / Hamstring"" : ""Arm"", ""Heel"" : ""Foot"", ""left Shoulder"" : ""Shoulder"", ""right Finger"" : ""Hand"", ""Left Finger"" : ""Hand"", ""right Thumb"" : ""Hand"", ""Sternum"" : ""Chest"", ""Tooth"" : ""Face"", ""left Finger"" : ""Hand"", ""Rib cage"" : ""Ribs"", ""Pectoral"" : ""Chest"", ""coach decision"" : ""Not Injury Related"", ""Not injury related - coach's decision"" : ""Not Injury Related"", ""Oblique"" : ""Abdomen"", ""right Shoulder"" : ""Shoulder"", ""Knee, Ankle"" : ""Knee"", ""left Hand"" : ""Hand"", ""right Elbow"" : ""Elbow"", ""Face"" : ""Face"", ""L. Hand/Hip"" : ""Hand"", ""COVID Ramp Up"" : ""Not Injury Related"", ""Back, Ankle"" : ""Back"", ""Knee / Hamstring"" : ""Knee"", ""/Foot"" : ""Foot"", ""Arm"" : ""Arm"", ""/Coach's Decision To Not Practice Friday"" : ""Not Injury Related"", ""right Shoulder, rib"" : ""Shoulder"", ""Fibula"" : ""Lower Leg"", ""Concussion. Tremble has cleared concussion protocol. His game status is a result of a back injury."" : ""Concussion"", ""Third injury: Ankle"" : ""Ankle"", ""Hamstring, Abdomen"" : ""Hamstring"", ""Left Elbow"" : ""Elbow"", ""Coaching Decision"" : ""Concussion"", ""COVID Protocol"" : ""Not Injury Related"", ""Hamstring Illness"" : ""Hamstring"", ""Ribs, Back"" : ""Ribs"", ""right Biceps"" : ""Arm"", ""Chest/Hamstring"" : ""Chest"", "" right Elbow   Back"" : ""Elbow"", ""Lower Back"" : ""Back"", ""Ear"" : ""Face"", ""Foot Back"" : ""Foot"", ""right Hand"" : ""Hand"", ""Ankle, Hamstring"" : ""Ankle"", ""Finger Ankle"" : ""Hand"", ""Quadricep, Ankle, Knee"" : ""Quadricep"", ""Shoulder, Knee"" : ""Shoulder"", ""Ribs Knee"" : ""Ribs"", ""Personal"" : ""Not Injury Related"", ""Hand, Neck"" : ""Hand"", ""Nose"" : ""Face"", ""Rib, Ankle"" : ""Ribs"", ""Forearm / Hamstring"" : ""Arm"", "
-"""",Finger,""" ",: ,"""",Hand,"""",", ","""Finger"" : ""Hand"", ",,,,,
-"""",right Groin,""" ",: ,"""",Groin,"""",", ","""right Groin"" : ""Groin"", ",,,,,
-"""",Thumb,""" ",: ,"""",Hand,"""",", ","""Thumb"" : ""Hand"", ",,,,,
-"""",right Thumb,""" ",: ,"""",Hand,"""",", ","""right Thumb"" : ""Hand"", ",,,,,
-"""",left Shoulder,""" ",: ,"""",Shoulder,"""",", ","""left Shoulder"" : ""Shoulder"", ",,,,,
-"""",right Elbow,""" ",: ,"""",Elbow,"""",", ","""right Elbow"" : ""Elbow"", ",,,,,
-"""",Heel,""" ",: ,"""",Foot,"""",", ","""Heel"" : ""Foot"", ",,,,,
-"""",Shin,""" ",: ,"""",Lower Leg,"""",", ","""Shin"" : ""Lower Leg"", ",,,,,
-"""",Forearm,""" ",: ,"""",Arm,"""",", ","""Forearm"" : ""Arm"", ",,,,,
-"""",Not injury related - personal matter,""" ",: ,"""",Not Injury Related,"""",", ","""Not injury related - personal matter"" : ""Not Injury Related"", ",,,,,
-"""",Pectoral,""" ",: ,"""",Chest,"""",", ","""Pectoral"" : ""Chest"", ",,,,,
-"""",Fibula,""" ",: ,"""",Lower Leg,"""",", ","""Fibula"" : ""Lower Leg"", ",,,,,
-"""",right Finger,""" ",: ,"""",Hand,"""",", ","""right Finger"" : ""Hand"", ",,,,,
-"""",Collarbone,""" ",: ,"""",Shoulder,"""",", ","""Collarbone"" : ""Shoulder"", ",,,,,
-"""",Oblique,""" ",: ,"""",Abdomen,"""",", ","""Oblique"" : ""Abdomen"", ",,,,,
-"""",right Knee,""" ",: ,"""",Knee,"""",", ","""right Knee"" : ""Knee"", ",,,,,
-"""",right Hip,""" ",: ,"""",Hip,"""",", ","""right Hip"" : ""Hip"", ",,,,,
-"""",left Knee,""" ",: ,"""",Knee,"""",", ","""left Knee"" : ""Knee"", ",,,,,
-"""",left Hamstring,""" ",: ,"""",Hamstring,"""",", ","""left Hamstring"" : ""Hamstring"", ",,,,,
-"""",right Calf,""" ",: ,"""",Calf,"""",", ","""right Calf"" : ""Calf"", ",,,,,
-"""",left Wrist,""" ",: ,"""",Wrist,"""",", ","""left Wrist"" : ""Wrist"", ",,,,,
-"""",right Quadricep,""" ",: ,"""",Quadricep,"""",", ","""right Quadricep"" : ""Quadricep"", ",,,,,
-"""",right Hand,""" ",: ,"""",Hand,"""",", ","""right Hand"" : ""Hand"", ",,,,,
-"""",right Hamstring,""" ",: ,"""",Hamstring,"""",", ","""right Hamstring"" : ""Hamstring"", ",,,,,
-"""",left Groin,""" ",: ,"""",Groin,"""",", ","""left Groin"" : ""Groin"", ",,,,,
-"""",Right Shoulder,""" ",: ,"""",Shoulder,"""",", ","""Right Shoulder"" : ""Shoulder"", ",,,,,
-"""",left Thumb,""" ",: ,"""",Hand,"""",", ","""left Thumb"" : ""Hand"", ",,,,,
-"""",Not injury related - resting player,""" ",: ,"""",Not Injury Related,"""",", ","""Not injury related - resting player"" : ""Not Injury Related"", ",,,,,
-"""",Glute,""" ",: ,"""",Back,"""",", ","""Glute"" : ""Back"", ",,,,,
-"""",left Ankle,""" ",: ,"""",Ankle,"""",", ","""left Ankle"" : ""Ankle"", ",,,,,
-"""",Eye,""" ",: ,"""",Face,"""",", ","""Eye"" : ""Face"", ",,,,,
-"""",right Wrist,""" ",: ,"""",Wrist,"""",", ","""right Wrist"" : ""Wrist"", ",,,,,
-"""",Left Knee,""" ",: ,"""",Knee,"""",", ","""Left Knee"" : ""Knee"", ",,,,,
-"""",Pelvis,""" ",: ,"""",Hip,"""",", ","""Pelvis"" : ""Hip"", ",,,,,
-"""",right Ankle,""" ",: ,"""",Ankle,"""",", ","""right Ankle"" : ""Ankle"", ",,,,,
-"""",Biceps,""" ",: ,"""",Arm,"""",", ","""Biceps"" : ""Arm"", ",,,,,
-"""",left Calf,""" ",: ,"""",Calf,"""",", ","""left Calf"" : ""Calf"", ",,,,,
-"""",Jaw,""" ",: ,"""",Face,"""",", ","""Jaw"" : ""Face"", ",,,,,
-"""",Feet,""" ",: ,"""",Foot,"""",", ","""Feet"" : ""Foot"", ",,,,,
-"""",Chest/Rib/Finger,""" ",: ,"""",Chest,"""",", ","""Chest/Rib/Finger"" : ""Chest"", ",,,,,
-"""",Kidney,""" ",: ,"""",Abdomen,"""",", ","""Kidney"" : ""Abdomen"", ",,,,,
-"""",right Thigh,""" ",: ,"""",Thigh,"""",", ","""right Thigh"" : ""Thigh"", ",,,,,
-"""",Left Hand,""" ",: ,"""",Hand,"""",", ","""Left Hand"" : ""Hand"", ",,,,,
-"""",kidney,""" ",: ,"""",Abdomen,"""",", ","""kidney"" : ""Abdomen"", ",,,,,
-"""",Ankles,""" ",: ,"""",Ankle,"""",", ","""Ankles"" : ""Ankle"", ",,,,,
-"""",Right Ankle,""" ",: ,"""",Ankle,"""",", ","""Right Ankle"" : ""Ankle"", ",,,,,
-"""",Core,""" ",: ,"""",Abdomen,"""",", ","""Core"" : ""Abdomen"", ",,,,,
-"""",Abdominal,""" ",: ,"""",Abdomen,"""",", ","""Abdominal"" : ""Abdomen"", ",,,,,
-"""",Nose,""" ",: ,"""",Face,"""",", ","""Nose"" : ""Face"", ",,,,,
-"""",Medical Illness,""" ",: ,"""",Not Injury Related,"""",", ","""Medical Illness"" : ""Not Injury Related"", ",,,,,
-"""",Non-Football Illness,""" ",: ,"""",Not Injury Related,"""",", ","""Non-Football Illness"" : ""Not Injury Related"", ",,,,,
-"""",Coach's Decision,""" ",: ,"""",Not Injury Related,"""",", ","""Coach's Decision"" : ""Not Injury Related"", ",,,,,
-"""",Coach's decision,""" ",: ,"""",Not Injury Related,"""",", ","""Coach's decision"" : ""Not Injury Related"", ",,,,,
-"""",Left Shoulder,""" ",: ,"""",Shoulder,"""",", ","""Left Shoulder"" : ""Shoulder"", ",,,,,
-"""",Not injury related - other,""" ",: ,"""",Not Injury Related,"""",", ","""Not injury related - other"" : ""Not Injury Related"", ",,,,,
-"""",Right Hip,""" ",: ,"""",Hip,"""",", ","""Right Hip"" : ""Hip"", ",,,,,
-"""",left Finger,""" ",: ,"""",Hand,"""",", ","""left Finger"" : ""Hand"", ",,,,,
-"""",left Hip,""" ",: ,"""",Hip,"""",", ","""left Hip"" : ""Hip"", ",,,,,
-"""",Right Hamstring,""" ",: ,"""",Hamstring,"""",", ","""Right Hamstring"" : ""Hamstring"", ",,,,,
-"""",Low Back,""" ",: ,"""",Back,"""",", ","""Low Back"" : ""Back"", ",,,,,
-"""",left Foot,""" ",: ,"""",Foot,"""",", ","""left Foot"" : ""Foot"", ",,,,,
-"""",left Hand,""" ",: ,"""",Hand,"""",", ","""left Hand"" : ""Hand"", ",,,,,
-"""",left Forearm,""" ",: ,"""",Arm,"""",", ","""left Forearm"" : ""Arm"", ",,,,,
-"""",rt. thumb,""" ",: ,"""",Hand,"""",", ","""rt. thumb"" : ""Hand"", ",,,,,
-"""",right Foot,""" ",: ,"""",Foot,"""",", ","""right Foot"" : ""Foot"", ",,,,,
-"""",Hips,""" ",: ,"""",Hip,"""",", ","""Hips"" : ""Hip"", ",,,,,
-"""",Stinger,""" ",: ,"""",Neck,"""",", ","""Stinger"" : ""Neck"", ",,,,,
-"""",Knees,""" ",: ,"""",Knee,"""",", ","""Knees"" : ""Knee"", ",,,,,
-"""",Hernia,""" ",: ,"""",Abdomen,"""",", ","""Hernia"" : ""Abdomen"", ",,,,,
-"""",Other-Stinger,""" ",: ,"""",Neck,"""",", ","""Other-Stinger"" : ""Neck"", ",,,,,
-"""",Lower Back,""" ",: ,"""",Back,"""",", ","""Lower Back"" : ""Back"", ",,,,,
-"""",Tibia,""" ",: ,"""",Lower Leg,"""",", ","""Tibia"" : ""Lower Leg"", ",,,,,
-"""",right Toe,""" ",: ,"""",Toe,"""",", ","""right Toe"" : ""Toe"", ",,,,,
-"""",Coaching Decision ,""" ",: ,"""",Not Injury Related,"""",", ","""Coaching Decision "" : ""Not Injury Related"", ",,,,,
-"""",Toes,""" ",: ,"""",Toe,"""",", ","""Toes"" : ""Toe"", ",,,,,
-"""",Ear,""" ",: ,"""",Face,"""",", ","""Ear"" : ""Face"", ",,,,,
-"""",Right Thumb,""" ",: ,"""",Hand,"""",", ","""Right Thumb"" : ""Hand"", ",,,,,
-"""",Right Quadricep,""" ",: ,"""",Quadricep,"""",", ","""Right Quadricep"" : ""Quadricep"", ",,,,,
-"""",Not injury related - coach's decision,""" ",: ,"""",Not Injury Related,"""",", ","""Not injury related - coach's decision"" : ""Not Injury Related"", ",,,,,
-"""",Right Hand,""" ",: ,"""",Hand,"""",", ","""Right Hand"" : ""Hand"", ",,,,,
-"""",R Shoulder,""" ",: ,"""",Shoulder,"""",", ","""R Shoulder"" : ""Shoulder"", ",,,,,
-"""",Other,""" ",: ,"""",Drop,"""",", ","""Other"" : ""Drop"", ",,,,,
-"""",Left Foot,""" ",: ,"""",Foot,"""",", ","""Left Foot"" : ""Foot"", ",,,,,
-"""",COVID Protocol,""" ",: ,"""",Not Injury Related,"""",", ","""COVID Protocol"" : ""Not Injury Related"", ",,,,,
-"""",Reserve/COVID activation,""" ",: ,"""",Not Injury Related,"""",", ","""Reserve/COVID activation"" : ""Not Injury Related"", ",,,,,
-"""",not injury related,""" ",: ,"""",Not Injury Related,"""",", ","""not injury related"" : ""Not Injury Related"", ",,,,,
-"""",Back Spasms,""" ",: ,"""",Back,"""",", ","""Back Spasms"" : ""Back"", ",,,,,
-"""",Face,""" ",: ,"""",Face,"""",", ","""Face"" : ""Face"", ",,,,,
-"""",Right Knee,""" ",: ,"""",Knee,"""",", ","""Right Knee"" : ""Knee"", ",,,,,
-"""",not injury related - team decision,""" ",: ,"""",Not Injury Related,"""",", ","""not injury related - team decision"" : ""Not Injury Related"", ",,,,,
-"""",Right Forearm,""" ",: ,"""",Arm,"""",", ","""Right Forearm"" : ""Arm"", ",,,,,
-"""",not injury related - returning from suspension,""" ",: ,"""",Not Injury Related,"""",", ","""not injury related - returning from suspension"" : ""Not Injury Related"", ",,,,,
-"""",left Quadricep,""" ",: ,"""",Quadricep,"""",", ","""left Quadricep"" : ""Quadricep"", ",,,,,
-"""",Returning from Suspension,""" ",: ,"""",Not Injury Related,"""",", ","""Returning from Suspension"" : ""Not Injury Related"", ",,,,,
-"""",knees,""" ",: ,"""",Knee,"""",", ","""knees"" : ""Knee"", ",,,,,
-"""",Player was ill this morning. Fully expected to play. No game status. ,""" ",: ,"""",Not Injury Related,"""",", ","""Player was ill this morning. Fully expected to play. No game status. "" : ""Not Injury Related"", ",,,,,
-"""",Trent Sherfield Sr. did not travel with the team today for personal reasons. He is traveling separately and is expected to be available for Sunday’s game.,""" ",: ,"""",Not Injury Related,"""",", ","""Trent Sherfield Sr. did not travel with the team today for personal reasons. He is traveling separately and is expected to be available for Sunday’s game."" : ""Not Injury Related"", ",,,,,
-"""",Eye Lid,""" ",: ,"""",Face,"""",", ","""Eye Lid"" : ""Face"", ",,,,,
-"""",Cheek,""" ",: ,"""",Face,"""",", ","""Cheek"" : ""Face"", ",,,,,
-"""",Right Collarbone,""" ",: ,"""",Shoulder,"""",", ","""Right Collarbone"" : ""Shoulder"", ",,,,,
-"""",Hamstrings,""" ",: ,"""",Hamstring,"""",", ","""Hamstrings"" : ""Hamstring"", ",,,,,
-"""",Sternoclavicular,""" ",: ,"""",Chest,"""",", ","""Sternoclavicular"" : ""Chest"", ",,,,,
-"""",right Biceps,""" ",: ,"""",Arm,"""",", ","""right Biceps"" : ""Arm"", ",,,,,
-"""",Left Ankle,""" ",: ,"""",Ankle,"""",", ","""Left Ankle"" : ""Ankle"", ",,,,,
-"""",Chest/Finger,""" ",: ,"""",Chest,"""",", ","""Chest/Finger"" : ""Chest"", ",,,,,
-"""",L. Arm,""" ",: ,"""",Arm,"""",", ","""L. Arm"" : ""Arm"", ",,,,,
-"""",Lower leg,""" ",: ,"""",Lower Leg,"""",", ","""Lower leg"" : ""Lower Leg"", ",,,,,
-"""",Qblique,""" ",: ,"""",Abdomen,"""",", ","""Qblique"" : ""Abdomen"", ",,,,,
-"""",Arrhythmia,""" ",: ,"""",Drop,"""",", ","""Arrhythmia"" : ""Drop"", ",,,,,
-"""",right thumb,""" ",: ,"""",Hand,"""",", ","""right thumb"" : ""Hand"", ",,,,,
-"""",Chin,""" ",: ,"""",Face,"""",", ","""Chin"" : ""Face"", ",,,,,
-"""",Left Hamstring,""" ",: ,"""",Hamstring,"""",", ","""Left Hamstring"" : ""Hamstring"", ",,,,,
-"""",Right Finger,""" ",: ,"""",Hand,"""",", ","""Right Finger"" : ""Hand"", ",,,,,
-"""",Triceps,""" ",: ,"""",Arm,"""",", ","""Triceps"" : ""Arm"", ",,,,,
-"""",Ribs/Ankle/Toe,""" ",: ,"""",Ribs,"""",", ","""Ribs/Ankle/Toe"" : ""Ribs"", ",,,,,
-"""",right quadricep,""" ",: ,"""",Quadricep,"""",", ","""right quadricep"" : ""Quadricep"", ",,,,,
-"""",Teeth,""" ",: ,"""",Face,"""",", ","""Teeth"" : ""Face"", ",,,,,
-"""",Spleen,""" ",: ,"""",Abdomen,"""",", ","""Spleen"" : ""Abdomen"", ",,,,,
-"""",Right Upper Arm,""" ",: ,"""",Arm,"""",", ","""Right Upper Arm"" : ""Arm"", ",,,,,
-"""",Shortness of Breath,""" ",: ,"""",Drop,"""",", ","""Shortness of Breath"" : ""Drop"", ",,,,,
-"""",Facial Laceration,""" ",: ,"""",Face,"""",", ","""Facial Laceration"" : ""Face"", ",,,,,
-"""",Tooth,""" ",: ,"""",Face,"""",", ","""Tooth"" : ""Face"", ",,,,,
-"""",Quad,""" ",: ,"""",Quadricep,"""",", ","""Quad"" : ""Quadricep"", ",,,,,
-"""",Both knees,""" ",: ,"""",Knee,"""",", ","""Both knees"" : ""Knee"", ",,,,,
-"""","Left shoulder, Left elbow",""" ",: ,"""",Shoulder,"""",", ","""Left shoulder, Left elbow"" : ""Shoulder"", ",,,,,
-"""",Stomach,""" ",: ,"""",Abdomen,"""",", ","""Stomach"" : ""Abdomen"", ",,,,,
-"""",lower leg,""" ",: ,"""",Lower Leg,"""",", ","""lower leg"" : ""Lower Leg"", ",,,,,
-"""",non football injury,""" ",: ,"""",Not Injury Related,"""",", ","""non football injury"" : ""Not Injury Related"", ",,,,,
-"""",Core Muscle Injury,""" ",: ,"""",Abdomen,"""",", ","""Core Muscle Injury"" : ""Abdomen"", ",,,,,
-"""",Arch,""" ",: ,"""",Foot,"""",", ","""Arch"" : ""Foot"", ",,,,,
-"""",right hip,""" ",: ,"""",Hip,"""",", ","""right hip"" : ""Hip"", ",,,,,
-"""",Right Elbow,""" ",: ,"""",Elbow,"""",", ","""Right Elbow"" : ""Elbow"", ""Rest"" : ""Not Injury Related"", ""Right Wrist"" : ""Wrist"", ""gameday concussion protocol evaluation"" : ""Concussion"", ""Cramps"" : ""Not Injury Related"", ""core muscle"" : ""Abdomen"", ""right Forearm"" : ""Arm"", ""Left Finger"" : ""Hand"", ""Throat"" : ""Neck"", ""not injury related - travel"" : ""Not Injury Related"", ""Personal"" : ""Not Injury Related"", ""Not injury related -- resting veteran"" : ""Not Injury Related"", ""Load Management"" : ""Not Injury Related"", ""Tricep"" : ""Arm"", ""Left Wrist"" : ""Wrist"", ""Jury Duty"" : ""Not Injury Related"", ""Right Foot"" : ""Foot"", ""Dehydration"" : ""Not Injury Related"", ""Right Arm (Laceration)"" : ""Arm"", ""Placed On Injured Reserve (Thigh)"" : ""Thigh"", ""Concussion Protocol"" : ""Concussion"", ""concussion protocol"" : ""Concussion"", ""Not Injury Related - Travel"" : ""Not Injury Related"", ""Heat cramps"" : ""Not Injury Related"", ""Travel After Trade"" : ""Not Injury Related"", ""Headache"" : ""Not Injury Related"", ""Resting Veteran"" : ""Not Injury Related"", ""calves"" : ""Calf"", ""Appendix"" : ""Abdomen"", ""oblique"" : ""Abdomen"", ""Heat Related"" : ""Not Injury Related"", ""Clavicle"" : ""Shoulder"", ""rest"" : ""Not Injury Related"", ""Rested"" : ""Not Injury Related"", ""Core Muscle"" : ""Abdomen"", ""Right Biceps"" : ""Arm"", ",,,,,
-"""",Rest,""" ",: ,"""",Not Injury Related,"""",", ","""Rest"" : ""Not Injury Related"", ",,,,,
-"""",Right Wrist,""" ",: ,"""",Wrist,"""",", ","""Right Wrist"" : ""Wrist"", ",,,,,
-"""",gameday concussion protocol evaluation,""" ",: ,"""",Concussion,"""",", ","""gameday concussion protocol evaluation"" : ""Concussion"", ",,,,,
-"""",Cramps,""" ",: ,"""",Not Injury Related,"""",", ","""Cramps"" : ""Not Injury Related"", ",,,,,
-"""",core muscle,""" ",: ,"""",Abdomen,"""",", ","""core muscle"" : ""Abdomen"", ",,,,,
-"""",right Forearm,""" ",: ,"""",Arm,"""",", ","""right Forearm"" : ""Arm"", ",,,,,
-"""",Left Finger,""" ",: ,"""",Hand,"""",", ","""Left Finger"" : ""Hand"", ",,,,,
-"""",Throat,""" ",: ,"""",Neck,"""",", ","""Throat"" : ""Neck"", ",,,,,
-"""",not injury related - travel,""" ",: ,"""",Not Injury Related,"""",", ","""not injury related - travel"" : ""Not Injury Related"", ",,,,,
-"""",Personal,""" ",: ,"""",Not Injury Related,"""",", ","""Personal"" : ""Not Injury Related"", ",,,,,
-"""",Not injury related -- resting veteran,""" ",: ,"""",Not Injury Related,"""",", ","""Not injury related -- resting veteran"" : ""Not Injury Related"", ",,,,,
-"""",Load Management,""" ",: ,"""",Not Injury Related,"""",", ","""Load Management"" : ""Not Injury Related"", ",,,,,
-"""",Tricep,""" ",: ,"""",Arm,"""",", ","""Tricep"" : ""Arm"", ",,,,,
-"""",Left Wrist,""" ",: ,"""",Wrist,"""",", ","""Left Wrist"" : ""Wrist"", ",,,,,
-"""",Jury Duty,""" ",: ,"""",Not Injury Related,"""",", ","""Jury Duty"" : ""Not Injury Related"", ",,,,,
-"""",Right Foot,""" ",: ,"""",Foot,"""",", ","""Right Foot"" : ""Foot"", ",,,,,
-"""",Dehydration,""" ",: ,"""",Not Injury Related,"""",", ","""Dehydration"" : ""Not Injury Related"", ",,,,,
-"""",Right Arm (Laceration),""" ",: ,"""",Arm,"""",", ","""Right Arm (Laceration)"" : ""Arm"", ",,,,,
-"""",Placed On Injured Reserve (Thigh),""" ",: ,"""",Thigh,"""",", ","""Placed On Injured Reserve (Thigh)"" : ""Thigh"", ",,,,,
-"""",Concussion Protocol,""" ",: ,"""",Concussion,"""",", ","""Concussion Protocol"" : ""Concussion"", ",,,,,
-"""",concussion protocol,""" ",: ,"""",Concussion,"""",", ","""concussion protocol"" : ""Concussion"", ",,,,,
-"""",Not Injury Related - Travel,""" ",: ,"""",Not Injury Related,"""",", ","""Not Injury Related - Travel"" : ""Not Injury Related"", ",,,,,
-"""",Heat cramps,""" ",: ,"""",Not Injury Related,"""",", ","""Heat cramps"" : ""Not Injury Related"", ",,,,,
-"""",Travel After Trade,""" ",: ,"""",Not Injury Related,"""",", ","""Travel After Trade"" : ""Not Injury Related"", ",,,,,
-"""",Headache,""" ",: ,"""",Not Injury Related,"""",", ","""Headache"" : ""Not Injury Related"", ",,,,,
-"""",Resting Veteran,""" ",: ,"""",Not Injury Related,"""",", ","""Resting Veteran"" : ""Not Injury Related"", ",,,,,
-"""",calves,""" ",: ,"""",Calf,"""",", ","""calves"" : ""Calf"", ",,,,,
-"""",Appendix,""" ",: ,"""",Abdomen,"""",", ","""Appendix"" : ""Abdomen"", ",,,,,
-"""",oblique,""" ",: ,"""",Abdomen,"""",", ","""oblique"" : ""Abdomen"", ",,,,,
-"""",Heat Related,""" ",: ,"""",Not Injury Related,"""",", ","""Heat Related"" : ""Not Injury Related"", ",,,,,
-"""",Clavicle,""" ",: ,"""",Shoulder,"""",", ","""Clavicle"" : ""Shoulder"", ",,,,,
-"""",rest,""" ",: ,"""",Not Injury Related,"""",", ","""rest"" : ""Not Injury Related"", ",,,,,
-"""",Rested,""" ",: ,"""",Not Injury Related,"""",", ","""Rested"" : ""Not Injury Related"", ",,,,,
-"""",Core Muscle,""" ",: ,"""",Abdomen,"""",", ","""Core Muscle"" : ""Abdomen"", ",,,,,
-"""",Right Biceps,""" ",: ,"""",Arm,"""",", ","""Right Biceps"" : ""Arm"", ",,,,,
-"""",Finger,""" ",: ,"""",Hand,"""",", ","""Finger"" : ""Hand"", ",,,,,
-"""",Rib,""" ",: ,"""",Ribs,"""",", ","""Rib"" : ""Ribs"", ",,,,,
-"""",Forearm,""" ",: ,"""",Arm,"""",", ","""Forearm"" : ""Arm"", ",,,,,
-"""",Not injury related - personal matter,""" ",: ,"""",Not Injury Related,"""",", ","""Not injury related - personal matter"" : ""Not Injury Related"", ",,,,,
-"""",Not injury related - resting player,""" ",: ,"""",Not Injury Related,"""",", ","""Not injury related - resting player"" : ""Not Injury Related"", ",,,,,
-"""",Kidney,""" ",: ,"""",Abdomen,"""",", ","""Kidney"" : ""Abdomen"", ",,,,,
-"""",Thumb,""" ",: ,"""",Hand,"""",", ","""Thumb"" : ""Hand"", ",,,,,
-"""","right finger, rib",""" ",: ,"""",Hand,"""",", ","""right finger, rib"" : ""Hand"", ",,,,,
-"""",Shin,""" ",: ,"""",Lower Leg,"""",", ","""Shin"" : ""Lower Leg"", ",,,,,
-"""",/ Forearm / Hamstring,""" ",: ,"""",Arm,"""",", ","""/ Forearm / Hamstring"" : ""Arm"", ",,,,,
-"""",Heel,""" ",: ,"""",Foot,"""",", ","""Heel"" : ""Foot"", ",,,,,
-"""",left Shoulder,""" ",: ,"""",Shoulder,"""",", ","""left Shoulder"" : ""Shoulder"", ",,,,,
-"""",right Finger,""" ",: ,"""",Hand,"""",", ","""right Finger"" : ""Hand"", ",,,,,
-"""",Left Finger,""" ",: ,"""",Hand,"""",", ","""Left Finger"" : ""Hand"", ",,,,,
-"""",right Thumb,""" ",: ,"""",Hand,"""",", ","""right Thumb"" : ""Hand"", ",,,,,
-"""",Sternum,""" ",: ,"""",Chest,"""",", ","""Sternum"" : ""Chest"", ",,,,,
-"""",Tooth,""" ",: ,"""",Face,"""",", ","""Tooth"" : ""Face"", ",,,,,
-"""",left Finger,""" ",: ,"""",Hand,"""",", ","""left Finger"" : ""Hand"", ",,,,,
-"""",Rib cage,""" ",: ,"""",Ribs,"""",", ","""Rib cage"" : ""Ribs"", ",,,,,
-"""",Pectoral,""" ",: ,"""",Chest,"""",", ","""Pectoral"" : ""Chest"", ",,,,,
-"""",coach decision,""" ",: ,"""",Not Injury Related,"""",", ","""coach decision"" : ""Not Injury Related"", ",,,,,
-"""",Not injury related - coach's decision,""" ",: ,"""",Not Injury Related,"""",", ","""Not injury related - coach's decision"" : ""Not Injury Related"", ",,,,,
-"""",Oblique,""" ",: ,"""",Abdomen,"""",", ","""Oblique"" : ""Abdomen"", ",,,,,
-"""",right Shoulder,""" ",: ,"""",Shoulder,"""",", ","""right Shoulder"" : ""Shoulder"", ",,,,,
-"""","Knee, Ankle",""" ",: ,"""",Knee,"""",", ","""Knee, Ankle"" : ""Knee"", ",,,,,
-"""",left Hand,""" ",: ,"""",Hand,"""",", ","""left Hand"" : ""Hand"", ",,,,,
-"""",right Elbow,""" ",: ,"""",Elbow,"""",", ","""right Elbow"" : ""Elbow"", ",,,,,
-"""",Face,""" ",: ,"""",Face,"""",", ","""Face"" : ""Face"", ",,,,,
-"""",L. Hand/Hip,""" ",: ,"""",Hand,"""",", ","""L. Hand/Hip"" : ""Hand"", ",,,,,
-"""",COVID Ramp Up,""" ",: ,"""",Not Injury Related,"""",", ","""COVID Ramp Up"" : ""Not Injury Related"", ",,,,,
-"""","Back, Ankle",""" ",: ,"""",Back,"""",", ","""Back, Ankle"" : ""Back"", ",,,,,
-"""",Knee / Hamstring,""" ",: ,"""",Knee,"""",", ","""Knee / Hamstring"" : ""Knee"", ",,,,,
-"""",/Foot,""" ",: ,"""",Foot,"""",", ","""/Foot"" : ""Foot"", ",,,,,
-"""",Arm,""" ",: ,"""",Arm,"""",", ","""Arm"" : ""Arm"", ",,,,,
-"""",/Coach's Decision To Not Practice Friday,""" ",: ,"""",Not Injury Related,"""",", ","""/Coach's Decision To Not Practice Friday"" : ""Not Injury Related"", ",,,,,
-"""","right Shoulder, rib",""" ",: ,"""",Shoulder,"""",", ","""right Shoulder, rib"" : ""Shoulder"", ",,,,,
-"""",Fibula,""" ",: ,"""",Lower Leg,"""",", ","""Fibula"" : ""Lower Leg"", ",,,,,
-"""",Concussion. Tremble has cleared concussion protocol. His game status is a result of a back injury.,""" ",: ,"""",Concussion,"""",", ","""Concussion. Tremble has cleared concussion protocol. His game status is a result of a back injury."" : ""Concussion"", ",,,,,
-"""",Third injury: Ankle,""" ",: ,"""",Ankle,"""",", ","""Third injury: Ankle"" : ""Ankle"", ",,,,,
-"""","Hamstring, Abdomen",""" ",: ,"""",Hamstring,"""",", ","""Hamstring, Abdomen"" : ""Hamstring"", ",,,,,
-"""",Left Elbow,""" ",: ,"""",Elbow,"""",", ","""Left Elbow"" : ""Elbow"", ",,,,,
-"""",Coaching Decision,""" ",: ,"""",Concussion,"""",", ","""Coaching Decision"" : ""Concussion"", ",,,,,
-"""",COVID Protocol,""" ",: ,"""",Not Injury Related,"""",", ","""COVID Protocol"" : ""Not Injury Related"", ",,,,,
-"""",Hamstring Illness,""" ",: ,"""",Hamstring,"""",", ","""Hamstring Illness"" : ""Hamstring"", ",,,,,
-"""","Ribs, Back",""" ",: ,"""",Ribs,"""",", ","""Ribs, Back"" : ""Ribs"", ",,,,,
-"""",right Biceps,""" ",: ,"""",Arm,"""",", ","""right Biceps"" : ""Arm"", ",,,,,
-"""",Chest/Hamstring,""" ",: ,"""",Chest,"""",", ","""Chest/Hamstring"" : ""Chest"", ",,,,,
-"""", right Elbow   Back,""" ",: ,"""",Elbow,"""",", ",""" right Elbow   Back"" : ""Elbow"", ",,,,,
-"""",Lower Back,""" ",: ,"""",Back,"""",", ","""Lower Back"" : ""Back"", ",,,,,
-"""",Ear,""" ",: ,"""",Face,"""",", ","""Ear"" : ""Face"", ",,,,,
-"""",Foot Back,""" ",: ,"""",Foot,"""",", ","""Foot Back"" : ""Foot"", ",,,,,
-"""",right Hand,""" ",: ,"""",Hand,"""",", ","""right Hand"" : ""Hand"", ",,,,,
-"""","Ankle, Hamstring",""" ",: ,"""",Ankle,"""",", ","""Ankle, Hamstring"" : ""Ankle"", ",,,,,
-"""",Finger Ankle,""" ",: ,"""",Hand,"""",", ","""Finger Ankle"" : ""Hand"", ",,,,,
-"""","Quadricep, Ankle, Knee",""" ",: ,"""",Quadricep,"""",", ","""Quadricep, Ankle, Knee"" : ""Quadricep"", ",,,,,
-"""","Shoulder, Knee",""" ",: ,"""",Shoulder,"""",", ","""Shoulder, Knee"" : ""Shoulder"", ",,,,,
-"""",Ribs Knee,""" ",: ,"""",Ribs,"""",", ","""Ribs Knee"" : ""Ribs"", ",,,,,
-"""",Personal,""" ",: ,"""",Not Injury Related,"""",", ","""Personal"" : ""Not Injury Related"", ",,,,,
-"""","Hand, Neck",""" ",: ,"""",Hand,"""",", ","""Hand, Neck"" : ""Hand"", ",,,,,
-"""",Nose,""" ",: ,"""",Face,"""",", ","""Nose"" : ""Face"", ",,,,,
-"""","Rib, Ankle",""" ",: ,"""",Ribs,"""",", ","""Rib, Ankle"" : ""Ribs"", ",,,,,
-"""",Forearm / Hamstring,""" ",: ,"""",Arm,"""",", ","""Forearm / Hamstring"" : ""Arm"", ",,,,,
+,report_primary_injury
+Knee,3092
+Ankle,2628
+Hamstring,2316
+Shoulder,1106
+Concussion,1048
+Foot,998
+Groin,689
+Back,632
+Illness,541
+Hip,531
+Calf,469
+Toe,362
+Ribs,349
+Thigh,325
+Quadricep,288
+Neck,266
+Not Injury Related,256
+right Shoulder,215
+Hand,208
+Chest,180
+Rib,177
+Wrist,152
+Head,137
+Abdomen,132
+Finger,115
+Thumb,101
+right Groin,101
+Elbow,89
+Achilles,87
+right Thumb,81
+left Shoulder,79
+right Elbow,57
+Heel,52
+Shin,49
+Forearm,48
+Not injury related - personal matter,45
+Pectoral,42
+Fibula,37
+right Finger,36
+Collarbone,36
+Oblique,34
+right Knee,27
+right Hip,25
+left Knee,22
+left Hamstring,20
+right Calf,18
+left Wrist,17
+right Quadricep,17
+right Hand,16
+right Hamstring,15
+left Groin,15
+Right Shoulder,14
+left Thumb,13
+Not injury related - resting player,11
+Glute,10
+left Ankle,10
+Eye,9
+right Wrist,9
+Left Knee,8
+Pelvis,8
+right Ankle,7
+Lower Leg,7
+Biceps,6
+left Calf,6
+Jaw,6
+Feet,6
+Chest/Rib/Finger,5
+Kidney,5
+right Thigh,5
+Left Hand,4
+kidney,4
+Ankles,4
+Right Ankle,3
+Core,3
+Abdominal,3
+Nose,3
+Medical Illness,3
+Non-Football Illness,3
+Coach's Decision,3
+Coach's decision,3
+Left Shoulder,3
+Not injury related - other,3
+Right Hip,3
+left Finger,3
+left Hip,3
+Right Hamstring,3
+Low Back,3
+left Foot,3
+left Hand,3
+left Forearm,3
+rt. thumb,2
+right Foot,2
+Hips,2
+Stinger,2
+Knees,2
+Hernia,2
+Other-Stinger,2
+Lower Back,2
+Tibia,2
+right Toe,2
+Coaching Decision ,2
+Toes,2
+Ear,2
+Right Thumb,1
+Right Quadricep,1
+Not injury related - coach's decision,1
+Right Hand,1
+R Shoulder,1
+Other,1
+Left Foot,1
+COVID Protocol,1
+Reserve/COVID activation,1
+not injury related,1
+Back Spasms,1
+Face,1
+Right Knee,1
+not injury related - team decision,1
+Right Forearm,1
+not injury related - returning from suspension,1
+left Quadricep,1
+Returning from Suspension,1
+knees,1
+Player was ill this morning. Fully expected to play. No game status. ,1
+Trent Sherfield Sr. did not travel with the team today for personal reasons. He is traveling separately and is expected to be available for Sundayâ€™s game.,1
+Eye Lid,1
+Cheek,1
+Right Collarbone,1
+Hamstrings,1
+Sternoclavicular,1
+right Biceps,1
+Left Ankle,1
+Chest/Finger,1
+L. Arm,1
+Lower leg,1
+Qblique,1
+Arrhythmia,1
+right thumb,1
+Chin,1
+Left Hamstring,1
+Right Finger,1
+Triceps,1
+Ribs/Ankle/Toe,1
+right quadricep,1
+Teeth,1
+Spleen,1
+Right Upper Arm,1
+Shortness of Breath,1
+Facial Laceration,1
+Tooth,1
+Quad,1
+Both knees,1
+"Left shoulder, Left elbow",1
+Stomach,1
+lower leg,1
+non football injury,1
+Core Muscle Injury,1
+Arch,1
+right hip,1
+Right Elbow,1
